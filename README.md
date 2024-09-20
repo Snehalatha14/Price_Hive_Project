@@ -1,5 +1,5 @@
 # Product_Price_Comparison_Website-PRICEHIVE
-## Website Link Here : [https://price-hive-project.vercel.app/]
+
 ## Description
 PriceHive is a product price comparison website designed to help users find the best prices for products by comparing them across different online stores. With PriceHive, users can quickly search for any item and see where it's available and at what price. Our platform aims to make smart shopping choices easier and help users save money.
 
@@ -8,6 +8,18 @@ PriceHive is a product price comparison website designed to help users find the 
 - View prices and availability for each product.
 - Compare prices from different stores.
 - User-friendly interface for easy navigation.
+
+## Technologies Used
+- HTML: Markup language for structuring the website content.
+- CSS: Styling language for designing the website layout and appearance.
+- JavaScript: Programming language for implementing interactive features and functionality.
+- XAMPP: Local server environment for hosting the website during development.
+- PHP: Server-side scripting language for handling server-side logic and database interactions.
+
+
+## Website Link
+
+You can visit the live platform here: [Product Price Compariosn Website](https://price-hive-project.vercel.app/)
   
 ## Usage
 1. Set up a local server environment using XAMPP:
@@ -37,9 +49,3 @@ PriceHive is a product price comparison website designed to help users find the 
 
 12. Make an informed decision based on the price and availability information provided.
 
-## Technologies Used
-- HTML: Markup language for structuring the website content.
-- CSS: Styling language for designing the website layout and appearance.
-- JavaScript: Programming language for implementing interactive features and functionality.
-- XAMPP: Local server environment for hosting the website during development.
-- PHP: Server-side scripting language for handling server-side logic and database interactions.
